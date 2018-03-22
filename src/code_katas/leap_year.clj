@@ -1,4 +1,4 @@
-(ns leap-year-clojure.leap_year)
+(ns code-katas.leap_year)
 
 (defn- is-divisible-by [other number]
   (= (mod number other) 0))

@@ -1,6 +1,6 @@
-(ns leap-year-clojure.rps-test
+(ns code-katas.rps-test
   (:require [clojure.test :refer :all])
-  (:require [leap-year-clojure.rps :refer :all]))
+  (:require [code-katas.rps :refer :all]))
 
 (deftest rock-paper-scissors
   (testing "throws"

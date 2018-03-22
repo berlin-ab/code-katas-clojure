@@ -1,6 +1,6 @@
-(ns leap-year-clojure.leap-year-test
+(ns code-katas.leap-year-test
   (:require [clojure.test :refer :all]
-            [leap-year-clojure.leap_year :refer :all]))
+            [code-katas.leap_year :refer :all]))
 
 (deftest leap-year-test
   (testing "numbers divisible by 4 are leap years"

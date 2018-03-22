@@ -1,4 +1,4 @@
-(ns leap-year-clojure.rps)
+(ns code-katas.rps)
 
 (def rock :rock)
 (def paper :paper)
